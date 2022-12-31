@@ -1,8 +1,8 @@
 #!/bin/bash
-# Script for New Year - updated - r0r0x 2022
+# Script for New Year - updated - m-abaspour 2022
 
 # Config
-name='I wish you a Happy New Year - By r0r0x'
+name='I wish you a Happy New Year - By m-abaspour'
 correction=0
 
 trap "tput reset; tput cnorm; exit" 2
